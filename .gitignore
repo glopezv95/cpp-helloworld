@@ -9,6 +9,8 @@
 *.dll
 *.so
 *.dylib
+*.ilk
+*.pdb
 
 # Ignore backup files and temporary files
 *.tmp
