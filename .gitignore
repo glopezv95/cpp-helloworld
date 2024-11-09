@@ -1,0 +1,21 @@
+# Ignore the .vscode folder
+.vscode/
+
+# Ignore build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore backup files and temporary files
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Ignore any other editor or OS-specific files
+.DS_Store
+Thumbs.db
